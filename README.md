@@ -1,4 +1,4 @@
-# AI-Math-Drawer
+# Miao-A-SongHao-Linear-Algebra-Notes
 宋浩老师“惊叹号”系列[《线性代数》网课](https://www.bilibili.com/video/av29971113)笔记及时间点目录
 
 # 前言
