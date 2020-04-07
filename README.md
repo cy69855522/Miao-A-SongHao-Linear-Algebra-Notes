@@ -7,7 +7,7 @@ bilibili 宋浩老师 “惊叹号” 系列 [《线性代数》网课](https://
 - 如有遗漏或错误欢迎推PR或发Issue~ 欢迎补充完善⛄~
 - PC端推荐使用【Ctrl】+【F】进行关键字定位
 
-## 相关链接
+## 推荐
 - 🐍 想学Python？欢迎光临[ LeetCode最短Python题解 ](https://github.com/cy69855522/Shortest-LeetCode-Python-Solutions)，和我们深入探索 Python 特性。
 - [🚀 AI Power](https://www.aipower.xyz) 云GPU租借/出租平台：线代是AI的基础，AI需要高算力支持，有意向朝AI工程师发展的朋友不妨了解一下~ 现在注册并绑定即可获得高额算力，注册不涉及个人隐私信息，奖励可随时提现。详情请参考[AI Power指南](https://github.com/cy69855522/AI-Power)
 
